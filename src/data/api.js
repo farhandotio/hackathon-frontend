@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://hackathon-backend-zky6.onrender.com/",
+  baseURL: "https://hackathon-backend-mocha.vercel.app/",
 });
 
 // http://localhost:3000
